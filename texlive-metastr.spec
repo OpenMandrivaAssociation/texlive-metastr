@@ -3,7 +3,7 @@ Version:	56246
 Release:	2
 Summary:	Store and compose strings
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/metastr
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/metastr
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/metastr.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/metastr.doc.r%{version}.tar.xz
